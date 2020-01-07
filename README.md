@@ -1,1 +1,3 @@
-# Assignment-3-Cuda
+ # Assignment-3-Cuda/Ising  Parallel & Distributed Systems Course
+ 
+ Angelos Vlachos
